@@ -187,7 +187,11 @@ while True:
 
 sekian terimakasih
 
-untuk penjelasan youtube menyusul karna masih dalam proses
+# Dokumentasi pdf
+https://drive.google.com/file/d/1ptKvlGyGt_AKHRY8A70fyjeSZXMiv4q1/view?usp=share_link
+
+# Dokumentasi YouTube 
+untuk dokumentasi yt menyusul, karena masih dalam peroses
 
 
 
