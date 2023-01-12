@@ -191,7 +191,7 @@ sekian terimakasih
 https://drive.google.com/file/d/1ptKvlGyGt_AKHRY8A70fyjeSZXMiv4q1/view?usp=share_link
 
 # Dokumentasi YouTube 
-untuk dokumentasi yt menyusul, karena masih dalam peroses
+https://youtu.be/nIIaiZtxCHk
 
 
 
